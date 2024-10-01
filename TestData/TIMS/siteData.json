@@ -1,0 +1,18 @@
+{
+    "siteName": "test Automation",
+    "DEcompanyCode": "DE91",
+    "EScompanyCode": "ES91",
+    "IEcompanyCode": "IE91",
+    "HUcompanyCode": "HU91",
+    "PTcompanyCode":"PT91",
+    "lat": "1.5",
+    "long": "2.5",
+    "territory": "New Test",
+    "county": "county test",
+    "timsSiteCode": "DE-TIMS-100104",
+    "updatedSiteName": "updatedSiteName",
+    "updatedLat": "10.5",
+    "updatedLong": "20.5",
+    "customerAccount":"Vodafone - DE",
+    "scopeOfWork" : "Test"
+}

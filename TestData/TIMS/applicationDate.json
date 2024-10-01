@@ -1,0 +1,13 @@
+{
+    "TIMSSiteCode": "DE-TIMS-100716",
+    "customerAccount" : "Vodafone - DE", 
+    "scopeOfWork": "Auto - Test",
+    "lat": "1.5",
+    "long": "2.5",
+    "radius": "5.5",
+    "modifyExistingSite" : "modifyExistingSite",
+    "newBTS" : "newBTS",
+    "newCoLocatioApp": "newCoLocatioApp",
+    "SiteExitbyCustomerApp": "SiteExitbyCustomerApp",
+    "removalDate": "02.06.2024"
+}

@@ -1,0 +1,10 @@
+{
+    "instanceEntityId": {"string": "a052de14-bca7-456d-9f79-1b5e3a6513d5"},
+    "topic_subscription": {"string": "Raptor"},
+    "dbrokertime": {"string": "2023-08-04T07:45:49.676Z"},
+    "device_type": {"string": "ASUS PE100A-2-Partial"},
+    "entrytime": {"string": "2023-08-03T06:28:00.212Z"},
+    "key": {"string": "Overview\\Dublin\\CZ-TIMS-209455\\Raptor"},
+    "serial_number": {"string": "trewds12dr1093mwrwwqheiefasfsdd"},
+    "iccid": {"string": "qw123fssdfdsfrwesfsdf5218bdsdasdiuydwkqhdwqfsaff"}
+}

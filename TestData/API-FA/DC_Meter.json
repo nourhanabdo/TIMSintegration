@@ -1,0 +1,19 @@
+[{
+    "instanceEntityId": {"string": "a052de14-bca7-456d-9f79-1b5e3a6513d5"},
+    "topic_subscription": {"string": "DC_Meter"},
+    "dbrokertime": {"string": "2023-08-04T07:45:49.676Z"},
+    "device_type": {"string": "HOPTELE DJZ1737-Partial"},
+    "entrytime": {"string": "2023-08-03T06:28:00.212Z"},
+    "key": {"string": "Overview\\Dublin\\CZ-TIMS-209455\\DC Meter"},
+    "serial_number": {"string": "00KKRd019239dasdewq3dCad0ds63KBC"}
+}
+,
+{
+    "instanceEntityId": {"string": "a052de14-bca7-456d-9f79-1b5e3a6513d5"},
+    "topic_subscription": {"string": "DC_Meter"},
+    "dbrokertime": {"string": "2023-08-04T07:45:49.676Z"},
+    "device_type": {"string": "HOPTELE AHKC-EKA-Partial"},
+    "entrytime": {"string": "2023-08-03T06:28:00.212Z"},
+    "key": {"string": "Overview\\Dublin\\CZ-TIMS-209455\\DC Meter"},
+    "serial_number": {"string": "dewq3AdadaECad0ds639123KBC"}
+}]
